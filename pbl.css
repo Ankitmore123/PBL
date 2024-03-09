@@ -1,0 +1,13 @@
+.navbar-nav > li{
+    margin-left:80px;
+    margin-right:80px;
+    margin-top: 2px;
+  }
+  .h1, h1 {
+    font-size: 4rem;
+    margin-bottom: 0.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+    line-height: 1.2;
+    color: red;
+}
